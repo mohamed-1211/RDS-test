@@ -1,4 +1,2 @@
 # RDS-test
-Afficher l'alignement des jets de Winnipeg à l'aide d'un objet JSON.
-Il existe deux répertoire, le premier avec du JavaScript classique et le deuxiéme avec ECMAScript6 qui fonctionne juste sur Edge car j'ai pas ajouté de compilateur comme Babel ou Webpack.
-Il suffit d'exécuter le fichier index.html en local pour voir le résultat. Le script se trouve dans le répertoire js.
+Afficher l'alignement des jets de Winnipeg à l'aide d'un objet JSON. Il existe deux répertoires, dans le premier j’utilise JavaScript classique et dans le deuxième j’utilise la version ECMAScript6 de JavaScript qui fonctionne sur Chrome, Firefox et seulement avec    Edge car je n’ai pas ajouté Babel ou Webpack. Il suffit d'exécuter le fichier index.html en local pour voir le résultat. Le script se trouve dans le répertoire js.
