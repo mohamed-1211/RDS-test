@@ -1,0 +1,15 @@
+.container-fluid { 
+    max-width: 1105px; 
+    margin: 0 auto; 
+    width: 100%;
+}
+
+tr:nth-child(odd){
+    background-color: #e4e4e4;
+    color: #333;
+  }
+  
+th{
+    background-color: #333;
+    color: #fff;
+}  
